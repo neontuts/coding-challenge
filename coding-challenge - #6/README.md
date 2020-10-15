@@ -1,4 +1,4 @@
-# Coding Challenge #6 - Number Of 1's
+# Coding Challenge #6 - Number Of 0's and 1's
 
 ## Problem
 
