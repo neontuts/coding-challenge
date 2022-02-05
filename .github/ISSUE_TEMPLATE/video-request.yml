@@ -18,7 +18,7 @@ body:
          
         ## Please provide the answer to the questions below to get started:
   - type: input
-    id: video-topic-name
+    id: new-video-name
     attributes:
       label: Suggest a Topic Name
       placeholder: "How much JavaScript is needed to learn React.js?"
@@ -26,20 +26,20 @@ body:
       required: true
       
   - type: textarea
-    id: video-topic-description
+    id: new-video-description
     attributes:
       label: What do you want to Learn?
       description: "Please provide some pointers."
       placeholder: |
-        1. What are the important JavaScript concepts for React.js
+        1. What are the important JavaScript concepts for React.js.
         2. Which array methods should master?
         3. ES6+ features like template literals, arrow function, etc.
     validations:
       required: true
       
-  - type: textarea
-    id: additional-information
+  - type: input
+    id: new-video-schedule
     attributes:
-      label: Additional Information
-      description: |
-        Provide any additional information such as logs, screenshots, likes, scenarios in which the bug occurs so that it facilitates resolving the issue.
+      label: How soon do you need this video tutorial?
+      description: "Give minimum a couple of weeks"
+      placeholder: "At your convenience."
