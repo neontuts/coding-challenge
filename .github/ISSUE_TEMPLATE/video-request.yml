@@ -26,15 +26,14 @@ body:
       required: true
       
   - type: textarea
-    id: steps-to-reproduce
+    id: video-topic-description
     attributes:
-      label: Steps To Reproduce
-      description: Steps to reproduce the behavior.
+      label: What do you want to Learn?
+      description: "Please provide some pointers."
       placeholder: |
-        1. Go to '...'
-        2. Click on '...'
-        3. Scroll down to '...'
-        4. See error
+        1. What are the important JavaScript concepts for React.js
+        2. Which array methods should master?
+        3. ES6+ features like template literals, arrow function, etc.
     validations:
       required: true
       
