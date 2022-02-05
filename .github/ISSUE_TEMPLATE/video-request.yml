@@ -47,7 +47,7 @@ body:
       required: true
 
   - type: textarea
-    id: new-video-description
+    id: new-video-requester
     attributes:
       label: Do you want to see your name, social handle as a requester in the Video Description?
       description: "If yes, please mention the full name, social handle, etc."
