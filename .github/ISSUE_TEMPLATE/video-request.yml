@@ -2,7 +2,7 @@ name: 🎥 Video Request
 description: Request a New Video
 title: "[New Video Request]: "
 labels: ["new"]
-assignees: ["atapas"]
+assignees: "atapas"
 body:
   - type: markdown
     attributes:
@@ -15,7 +15,8 @@ body:
          - Jamstack
          - Content Creation/Blogging
          - Career
-        
+         
+         ## Please provide the answer to the questions below to get started:
   - type: textarea
     id: bug-description
     attributes:
