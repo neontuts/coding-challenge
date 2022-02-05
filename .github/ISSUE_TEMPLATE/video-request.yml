@@ -1,7 +1,7 @@
 name: 🎥 Video Request
 description: Request a New Video
 title: "[New Video Request]: "
-labels: ["new"]
+labels: ["good first issue"]
 assignees: ["neontuts"]
 body:
   - type: markdown
