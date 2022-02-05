@@ -21,6 +21,7 @@ body:
     id: new-video-name
     attributes:
       label: Suggest a Topic Name
+      description: "Please provide new video topic name."
       placeholder: "How much JavaScript is needed to learn React.js?"
     validations:
       required: true
