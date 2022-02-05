@@ -55,6 +55,9 @@ body:
         - Tapas Adhikary
         - [twitter.com/tapasadhikary](https://twitter.com/tapasadhikary)
         - [github.com/atapas](https://github.com/atapas)
+    validations:
+      required: false
+
   - type: markdown
     attributes:
       value: |
