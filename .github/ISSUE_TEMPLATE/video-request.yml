@@ -9,11 +9,11 @@ body:
       value: |
         👋 Hey There,
 
-       You can request a video in the areas of,
-       - Web Development(JavaScript, React, CSS, HTML, many more)
-       - Jamstack
-       - Content Creation/Blogging
-       - Career
+         You can request a video in the areas of,
+         - Web Development(JavaScript, React, CSS, HTML, many more)
+         - Jamstack
+         - Content Creation/Blogging
+         - Career
         
   - type: textarea
     id: bug-description
