@@ -17,11 +17,11 @@ body:
         - Career
          
         ## Please provide the answer to the questions below to get started:
-  - type: textarea
-    id: bug-description
+  - type: input
+    id: video-topic-name
     attributes:
-      label: Description of the bug
-      description: Give us a brief description of what happened and what should have happened
+      label: Suggest a Topic Name
+      placeholder: "How much JavaScript is needed to learn React.js?"
     validations:
       required: true
       
