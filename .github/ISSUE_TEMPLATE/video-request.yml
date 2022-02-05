@@ -43,3 +43,15 @@ body:
       label: How soon do you need this video tutorial?
       description: "Give minimum a couple of weeks"
       placeholder: "At your convenience."
+    validations:
+      required: true
+
+  - type: textarea
+    id: new-video-description
+    attributes:
+      label: Do you want to see your name, social handle as a requester in the Video Description?
+      description: "If yes, please mention the full name, social handle, etc."
+      placeholder: |
+        - Tapas Adhikary
+        - [twitter.com/tapasadhikary](https://twitter.com/tapasadhikary)
+        - [github.com/atapas](https://github.com/atapas)
